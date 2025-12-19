@@ -1,7 +1,7 @@
 # Directory Cleaner & Duplicate File Remover
 
 
-👨‍💻 Author :- Om Ravindra Wakhare
+👨‍💻 Author :- Swaraj Santoshrao More
 
 This Python script automates the process of scanning a directory, identifying duplicate files based on their **MD5 checksum**, and deleting the duplicates.  
 It also supports generating logs and providing helpful instructions through command-line arguments.
